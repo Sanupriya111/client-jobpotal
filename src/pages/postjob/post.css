@@ -1,0 +1,20 @@
+.post_p{
+    font-family: 'Anton', sans-serif;
+    margin-left: 200px;
+    font-size: 50px;
+    margin-top: 100px;
+    
+}
+.postdiv{
+display: flex;
+
+}
+.postimg{
+    height: 500px;
+    width:500px;
+    margin-left: 60px;
+}
+.postbtn{
+    width:160px;
+    height: 60px;
+}

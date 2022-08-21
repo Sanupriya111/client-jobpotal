@@ -1,0 +1,38 @@
+.p1{
+    margin-top: 20px;
+    color:white;
+    margin-left: 360px;
+    font-size:xx-large
+
+}
+.pdiv
+{
+    background-color: gray;
+    height: 100px;
+    display:flex;
+}
+.maindiv{
+    background-color:rgb(248, 248, 248);
+    height: 100%;
+}
+.searchbox{
+    margin-top: 20px;
+    margin-left: 20px;
+width:400px;
+height: 50px;
+background-color: rgb(241, 240, 240);
+}
+.serbtn{
+    margin-top: 20px;
+    float: left;
+  width:60px;
+  height: 50px;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+
+}

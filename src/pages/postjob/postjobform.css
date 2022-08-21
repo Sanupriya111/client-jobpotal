@@ -1,0 +1,47 @@
+.postformdiv{
+    height: 600px;
+    width: 90%;
+border-radius: 10px;
+    background-color: rgb(119, 63, 248);
+    margin-left: 80px;
+}
+.postformdiv2{
+    height: 1000px;
+    width:80%;
+    margin-top: -430px;
+    margin-left: 160px;
+    background-color: beige;
+    border-radius: 15px;
+    
+}
+.postjobp{
+    
+    margin-left: 400px;
+    color: aliceblue;
+    font-size:60px;
+}
+.postjobb{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+}
+.postformbtn{
+    margin-left: 550px;
+    height: 50px;
+}
+
+.postform input[type="text"]{
+    width:800px;
+    margin-top: 20px;
+    margin-left: 200px;
+    height: 60px;
+    border: solid;
+    border-color: rgb(221, 214, 214);
+    border-radius: 15px;
+
+}
+.postform{
+    
+}
+
+
